@@ -1,0 +1,2 @@
+# Code Refactor Starter Code
+This project was done to help this company have a more accessible website. They were having problems with links not working and they did not have accessibility for people who use screen readers. I had to make sure all of their links brought the user to the right part of the screen and also add alt text to show screen readers which parts stand out. Any person can now easily use this website and be able to understand where they are and what images mean in relation to the text.
